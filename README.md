@@ -21,6 +21,4 @@ Contributions are welcome! Please submit any bug reports, suggestions, or pull r
 
 This project is licensed under the MIT License.
 
----
 
-请根据你的项目需求进行适当的修改，确保 README 提供了项目的简要描述、安装和使用方法，并鼓励其他人参与贡献。
